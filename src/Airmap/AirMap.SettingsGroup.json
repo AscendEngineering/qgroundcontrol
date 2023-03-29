@@ -7,7 +7,7 @@
     "name":             "usePersonalApiKey",
     "shortDesc": "Use Personal AirMap API Key",
     "type":             "bool",
-    "default":     false
+    "default":     true
 },
 {
     "name":             "apiKey",
@@ -37,19 +37,19 @@
     "name":             "enableAirMap",
     "shortDesc": "Enable AirMap",
     "type":             "bool",
-    "default":     false
+    "default":     true
 },
 {
     "name":             "enableAirspace",
     "shortDesc": "Show Airspace on Map (Experimental)",
     "type":             "bool",
-    "default":     false
+    "default":     true
 },
 {
     "name":             "enableTelemetry",
     "shortDesc": "Enable AirMap Telemetry",
     "type":             "bool",
-    "default":     false
+    "default":     true
 }
 ]
 }
